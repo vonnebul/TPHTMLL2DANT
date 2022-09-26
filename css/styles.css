@@ -1,1 +1,10 @@
 /* Feuille de styles CSS */
+html{
+  background-color: #eeeeee;
+}
+body{
+  background-color: white;
+  margin: auto;
+  width: 600px;
+  padding: 32px;
+}
