@@ -1,10 +1,43 @@
 /* Feuille de styles CSS */
 html{
   background-color: #eeeeee;
+  font-family: sans-serif;
+  text-align: justify;
 }
 body{
   background-color: white;
   margin: auto;
   width: 600px;
   padding: 32px;
+}
+i{
+  color: #007bff;
+}
+
+a{
+  color: #007bff;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+.source{
+  font-size: 12px;
+  text-align: right;
+}
+
+table{
+  border-collapse: collapse;
+  border: 3px solid black;
+}
+.firstTR{
+  border: 3px solid black;
+}
+tr, td, th{
+  border: 1px solid black;
+
+}
+.centerIMG{
+  text-align: center;
 }
