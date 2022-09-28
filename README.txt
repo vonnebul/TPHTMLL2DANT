@@ -10,5 +10,5 @@ Lien des TPs:
 https://florian-lepretre.herokuapp.com/teaching/web/tp1
 https://florian-lepretre.herokuapp.com/teaching/web/tp2
 
-Vous avez accès au cours de github dans le repository
+Vous avez accès au cours de git & github dans le repository
 
